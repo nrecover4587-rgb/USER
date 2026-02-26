@@ -14,8 +14,9 @@ MONGO_URL = env(
 BOT_TOKEN = env("BOT_TOKEN", "8740569127:AAGePXwfx_vWMorJtk9dF2-ksz4CRbiD7Ac")
 
 OWNER_ID = 7113972959
+OWNER_USERNAME = "Mrmental001"   # <-- apna username bina @ ke likho
 
 STRING_SESSION = env(
     "STRING_SESSION",
-    "1BVtsOGsBuyes_CENppMDp6QgDcyGS6p77xBSA46k9ObMqZW2O37psCosZYVbWykE0S9FeMtTmkYCgRYBuzWUeeZSZ6x1VPIKbUpv-Ug4B-DNCqCaeqN6o5tj3VWxVFTafM3qiFfDoBtOqJn8CmFG5VDe2SrAhKnGJ7VpP3ffcIODiq5-A1aO0RTUqdtssc9wXuje22NxMjX28EBuAq7xvReXTfsCY9Djlhbt5uYAqRKJKI-648MZNxT1uQm0-TGwmOPktYxvBvv0s7ViqXa_Jvtk7lxehJXAHemT23xWni8fJD05X-9kokkLmxrZFeIZS1-LkYYwb8qK5_PXrZHUzkltlYVgf1U="
+    "your_string_session_here"
 )
